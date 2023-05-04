@@ -50,6 +50,7 @@ a:hover {
     animation-name: animate;
     animation-duration: 4s;
     animation-delay: 2s;
+    animation-iteration-count: infinite;
 }
 
 @keyframes animate {
